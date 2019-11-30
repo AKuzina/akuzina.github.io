@@ -25,7 +25,9 @@ Work experience
   * NVIDIA, Moscow
   * Developed pipeline for on-line detection of creatures in the video games, based on deep neural network
   
-
+* 08/2017 --- 05/2018: Web Analyst
+  * Tinkoff, Moscow
+  * Impact evaluation for on-line advertisements, anomaly detection in user behavior, hypothesis testing via A\B-testing
 
 Publications
 ======

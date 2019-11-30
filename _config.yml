@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Anna Kuzina"
-  avatar           : "images/ava_1.png"
+  avatar           : "ava_1.png"
   bio              : "Junior Research Engineer, Skoltech"
   location         : "Russia, Moscow"
   employer         :
