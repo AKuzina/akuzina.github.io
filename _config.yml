@@ -79,7 +79,7 @@ social:
 analytics:
   provider               :  "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "G-SMS40TV860"
+    tracking_id          : "UA-153586109-1"
 
 
 # Site Author
