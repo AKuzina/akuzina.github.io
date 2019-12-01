@@ -16,13 +16,14 @@ You can find all my articles on my  <u><a href="https://scholar.google.com/citat
 
 ## Published papers
 
-**Kuzina, A.**, Egorov, E., & Burnaev, E. (2019). Bayesian generative models for knowledge transfer in MRI semantic segmentation problems. [Frontiers in neuroscience](https://www.frontiersin.org/articles/10.3389/fnins.2019.00844/full)
+**Kuzina, A.**, Egorov, E., & Burnaev, E. (2019). Bayesian generative models for knowledge transfer in MRI semantic segmentation problems.<u><a href="https://www.frontiersin.org/articles/10.3389/fnins.2019.00844/full">Frontiers in neuroscience</a></u>
 
 
-Pominova, M., **Kuzina, A.**, Kondrateva, E., Sushchinskaya, S., Burnaev, E., Yarkin, V., & Sharaev, M. (2019). Ensemble of 3D CNN regressors with data fusion for fluid intelligence prediction. [In Challenge in Adolescent Brain Cognitive Development Neurocognitive Prediction](https://link.springer.com/chapter/10.1007/978-3-030-31901-4_19)
+
+Pominova, M., **Kuzina, A.**, Kondrateva, E., Sushchinskaya, S., Burnaev, E., Yarkin, V., & Sharaev, M. (2019). Ensemble of 3D CNN regressors with data fusion for fluid intelligence prediction. <a href="https://link.springer.com/chapter/10.1007/978-3-030-31901-4_19">In Challenge in Adolescent Brain Cognitive Development Neurocognitive Prediction</a>
 
 
-## Posters and Conference Talks
+## Posters and Presentations
 
 Spotlight on [AABI](http://approximateinference.org/) 2019, Vancouver, Canada. BooVAE: A scalable framework for continual VAE learning under boosting approach. 
 
