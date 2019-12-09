@@ -103,7 +103,7 @@ author:
   github           :
   google_plus      :
   keybase          :
-  instagram        : "sysliksss"
+  instagram        : #"sysliksss"
   impactstory      :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/anna-kuzina-851419110/"
@@ -180,7 +180,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
