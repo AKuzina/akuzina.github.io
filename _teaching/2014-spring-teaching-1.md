@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Data Science for Economists, TA"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/icef
+venue: "Higher School of Economics, International College of Economics and Finance"
+date: 2018-09 --- 2019-12
+location: "Moscow, Russia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

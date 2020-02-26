@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Bayesian Methods in Machine Learning, TA"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Masters course"
+permalink: /teaching/2019-fall-sk
+venue: "Skoltech, CDISE"
+date: 2019-09 --- 2019-11
+location: "Moscow, Russia"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
