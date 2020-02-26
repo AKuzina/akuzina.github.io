@@ -71,7 +71,6 @@ social:
   links: # An array of links to social media profiles
     - https://scholar.google.com/citations?hl=en&user=IMoc7ioAAAAJ
     - https://www.linkedin.com/in/anna-kuzina-851419110/
-    - https://www.instagram.com/sysliksss/
     - https://www.facebook.com/ann.kuzina.35
     - https://twitter.com/a_kzna
 
@@ -180,7 +179,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
