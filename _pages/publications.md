@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find all my articles on my  <u><a href="https://scholar.google.com/citations?user=IMoc7ioAAAAJ&hl=en"> Google Scholar</a></u> page.
+All the papers can be found on my  <u><a href="https://scholar.google.com/citations?user=IMoc7ioAAAAJ&hl=en"> Google Scholar</a></u> page.
 
 
 ## Preprints
@@ -26,10 +26,13 @@ Pominova, M., **Kuzina, A.**, Kondrateva, E., Sushchinskaya, S., Burnaev, E., Ya
 ## Posters and Presentations
 
 ##### BooVAE: A scalable framework for continual VAE learning under boosting approach. 
-Spotlight on [AABI](http://approximateinference.org/) 2019, Vancouver, Canada. 
+Spotlight on [AABI](http://approximateinference.org/) 2019, Vancouver, Canada. [Poster](https://akuzina.github.io/files/Boo_AABI_Poster.pdf)\\
+
+
 
 ##### MRI-based stroke outcome prediction and treatment planning.
-Poster on [Human Brian Project Conference](https://education.humanbrainproject.eu/web/3rd-hbp-student-conference) 2019, Ghent, Belgium.  [Poster](https://akuzina.github.io/files/HBP_Poster.pdf)
+Poster on [Human Brian Project Conference](https://education.humanbrainproject.eu/web/3rd-hbp-student-conference) 2019, Ghent, Belgium.  [Poster](https://akuzina.github.io/files/HBP_Poster.pdf)\\
+
 
 
 ##### Riemannian manifold learning on connectivity matrices for diagnostic of depression and epilepsy.
