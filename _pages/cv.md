@@ -27,7 +27,7 @@ Work experience
   
 * 08/2017 --- 05/2018: Web Analyst
   * Tinkoff, Moscow
-  * Impact evaluation for on-line advertisements, anomaly detection in user behavior, hypothesis testing via A\B-testing
+  * Impact evaluation for on-line advertisements, anomaly detection in user behavior, landing pages optimization via A\B-testing
 
 Teaching
 ======
