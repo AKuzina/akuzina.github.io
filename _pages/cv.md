@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,17 @@ redirect_from:
 
 Education
 ======
-* M.S. in Statistical Learning Theory, [Higher School of Economics](https://www.hse.ru/en/ma/sltheory/) and [Skoltech](https://www.skoltech.ru/en/education/msc-programs/ds/slt/), 2019
-* B.S. in Mathematical Methods in Economic Analysis, [Higher School of Economics](https://www.hse.ru/en/ba/economics), 2017
+* M.S. in **Statistical Learning Theory**\\
+ [Higher School of Economics](https://www.hse.ru/en/ma/sltheory/) and 
+ [Skoltech](https://www.skoltech.ru/en/education/msc-programs/ds/slt/), Moscow, 2019\\
+ Thesis: Bayesian Generative Models for Knowledge Transfer in Deep Neural Networks on MRI Data
+ 
+* B.S. in **Mathematical Methods in Economic Analysis**\\
+ [Higher School of Economics](https://www.hse.ru/en/ba/economics), Moscow, 2017 \\
+ Thesis: Comparing Forecasting Power of Bayesian VAR with 1-d Time Series Models.
 
+* Exchange program, Erasmus School of Economics,\\
+Erasmus University Rotterdam, the Netherlands, 2016
 
 Work experience
 ======
