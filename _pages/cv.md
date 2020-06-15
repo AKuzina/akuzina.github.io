@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * July 2019 - present: Junior Research Engineer
-  * Skoltech
+  * Skoltech, Moscow
   * Supervisor: Evgeny Burnaev
 
 * Summer 2018: Deep Learning Intern
