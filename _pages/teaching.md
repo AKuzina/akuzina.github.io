@@ -8,13 +8,14 @@ author_profile: true
 
 
 ### Data Culture, Lecturer
-**Spring semester 2020**, HSE, Faculty of World Economy and International Affairs\
-Conduct lectures and tutorials devoted to basic data analysis in python.\
+**Spring semester 2020**, HSE, Faculty of World Economy and International Affairs\\
+Conduct lectures and tutorials devoted to basic data analysis in python.\\
 [Course notes](https://github.com/AKuzina/DC20/)
 
 
 ### Bayesian Methods in Machine Learning, TA
-**Fall semester 2019**, Skoltech, Data Science track\
+**Fall semester 2019**, Skoltech, Data Science track
+
 Assitance in tutorails and home assignments on Bayesian mathods in Machine Learning and Deep Bayesian Methods.
 
 
