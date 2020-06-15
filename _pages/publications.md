@@ -8,15 +8,15 @@ author_profile: true
 All the papers can be found on my  <a href="https://scholar.google.com/citations?user=IMoc7ioAAAAJ&hl=en"> Google Scholar</a> page.
 
 
-# Preprints
-
+Preprints
+======
 **Kuzina, A.** and Egorov, E., & Burnaev, E. (2019). BooVAE: A scalable framework for continual VAE learning under boosting approach. \
 [Full text](https://arxiv.org/abs/1908.11853).
 
 
 
-# Published papers
-
+Published papers
+======
 **Kuzina, A.**, Egorov, E., & Burnaev, E. (2019). 
 Bayesian generative models for knowledge transfer in MRI semantic segmentation problems. 
 *Frontiers in neuroscience*\
@@ -27,8 +27,9 @@ Pominova, M., **Kuzina, A.**, Kondrateva, E., Sushchinskaya, S., Burnaev, E., Ya
 *In Challenge in Adolescent Brain Cognitive Development Neurocognitive Prediction*\
 [Full text](https://link.springer.com/chapter/10.1007/978-3-030-31901-4_19)
 
-# Posters and Presentations
 
+Posters and Presentations
+======
 BooVAE: A scalable framework for continual VAE learning under boosting approach.\ 
 *Spotlight on [AABI](http://approximateinference.org/) 2019, Vancouver, Canada.* \
 [Poster](https://akuzina.github.io/files/Boo_AABI_Poster.pdf)

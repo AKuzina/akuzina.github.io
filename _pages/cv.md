@@ -29,8 +29,6 @@ Work experience
   * Tinkoff, Moscow
   * Impact evaluation for on-line advertisements, anomaly detection in user behavior, landing pages optimization via A\B-testing
 
-Teaching
+[Teaching](https://akuzina.github.io/teaching/)
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  
