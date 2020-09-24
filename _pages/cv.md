@@ -11,6 +11,10 @@ redirect_from:
 
 Education
 ======
+* PhD, **Continual Learning for Generative Models**, 2020 - Present\\
+ [Computational Intelligence](https://cs.vu.nl/ci/) group\\
+ Supervisors: Jakub Tomczak, Guszti Eiben (VU), Max Welling (UvA)
+
 * M.S. in **Statistical Learning Theory**\\
  [Higher School of Economics](https://www.hse.ru/en/ma/sltheory/) and 
  [Skoltech](https://www.skoltech.ru/en/education/msc-programs/ds/slt/), Moscow, 2019\\
@@ -25,7 +29,7 @@ Erasmus University Rotterdam, the Netherlands, 2016
 
 Work experience
 ======
-* July 2019 - present: Junior Research Engineer
+* July 2019 - August 2020: Junior Research Engineer
   * Skoltech, Moscow
   * Supervisor: Evgeny Burnaev
 
@@ -34,7 +38,7 @@ Work experience
   * Developed pipeline for on-line detection of creatures in the video games, based on deep neural network
   
 * 08/2017 --- 05/2018: Web Analyst
-  * Tinkoff, Moscow
+  * Tinkoff bank, Moscow
   * Impact evaluation for on-line advertisements, anomaly detection in user behavior, landing pages optimization via A\B-testing
 
 [Teaching](https://akuzina.github.io/teaching/)

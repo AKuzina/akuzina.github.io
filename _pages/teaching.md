@@ -4,21 +4,22 @@ title: " "
 permalink: /teaching/
 author_profile: true
 ---
-
+## Machine Learning, Lecturer
+**MOOC**, Online Degree, [Master of Data Science](https://www.hse.ru/en/ma/mds/)
 
 ## Data Culture, Lecturer
-**Spring semester 2020**, HSE, Faculty of World Economy and International Affairs\\
-Conduct lectures and tutorials devoted to basic data analysis in python.\\
+**Spring 2020**, HSE, [Faculty of World Economy and International Affairs](https://www.hse.ru/en/ba/epa)\\
+Develop and deliver weekly lectures and tutorials devoted to basic data analysis in python.
 
 ## Bayesian Methods in Machine Learning, TA
-**Fall semester 2019**, Skoltech, Data Science track\\
-Assitance in tutorails and home assignments on Bayesian mathods in Machine Learning and Deep Bayesian Methods.
+**Fall 2019**, Skoltech, [Data Science](https://www.skoltech.ru/en/education/msc-programs/ds/)\\
+Deliver tutorails, check home assignments on Bayesian methods in ML and Deep Bayesian Methods.
 
 
 ## Data Science in Economics, Class Teacher
-**Fall semesters 2018 and 2019**, HSE, International College of Economics and Finance\\
-Conducting weekly sections and developing assignments on introduction to data science and programming on R.
+**Fall 2018 and 2019**, HSE, [International College of Economics and Finance](https://www.hse.ru/en/ba/icef)\\
+Deliver weekly tutorials, develop and check assignments on introduction to data science and programming in R.
 
 ## Digital Literacy, Class Teacher
-**Spring semester 2018**, HSE\\
-Developing and teaching course on digital literacy for students from humanitarian faculties.
+**Spring 2018**, HSE\\
+Developing and deliver weekly tutorials on digital literacy for students from humanitarian faculties.
