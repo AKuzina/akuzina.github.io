@@ -30,6 +30,12 @@ Pominova, M., **Kuzina, A.**, Kondrateva, E., Sushchinskaya, S., Burnaev, E., Ya
 
 Posters and Presentations
 ======
+Bayesian generative models for knowledge transfer in MRI semantic segmentation problems.\\
+*Poster on [MIDL](https://2020.midl.io/papers/kuzina20.html) 2020, Online.*\\
+[Slides](https://akuzina.github.io/files/midl_dwp.pdf)\\
+[Video](https://www.youtube.com/watch?v=d1GkoVyGKO4)
+
+
 BooVAE: A scalable framework for continual VAE learning under boosting approach.\\
 *Spotlight on [AABI](http://approximateinference.org/) 2019, Vancouver, Canada.* \\
 [Poster](https://akuzina.github.io/files/Boo_AABI_Poster.pdf)
