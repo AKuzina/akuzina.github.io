@@ -4,12 +4,17 @@ title: " "
 permalink: /teaching/
 author_profile: true
 ---
+## Deep Learning, TA
+**Fall 2020**, Vrije Universiteit Amsterdam\\
+
+
 ## Machine Learning, Lecturer
-**MOOC**, Online Degree, [Master of Data Science](https://www.hse.ru/en/ma/mds/)
+**MOOC**, Online Degree, [Master of Data Science](https://www.hse.ru/en/ma/mds/)\\
+Developed and recorded online lectures on Machine Learning, developed automatically graded programming assignments and quizes
 
 ## Data Culture, Lecturer
 **Spring 2020**, HSE, [Faculty of World Economy and International Affairs](https://www.hse.ru/en/ba/epa)\\
-Develop and deliver weekly lectures and tutorials devoted to basic data analysis in python.
+Developed and delivered weekly lectures and tutorials devoted to basic data analysis in python.
 
 ## Bayesian Methods in Machine Learning, TA
 **Fall 2019**, Skoltech, [Data Science](https://www.skoltech.ru/en/education/msc-programs/ds/)\\
