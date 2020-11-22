@@ -14,9 +14,9 @@ Preprints
 [Full text](https://arxiv.org/abs/1908.11853).
 
 
-Published papers
-======
-######Bayesian generative models for knowledge transfer in MRI semantic segmentation problems.
+Published papers {: .notice}
+
+Bayesian generative models for knowledge transfer in MRI semantic segmentation problems.
 **Kuzina, A.**, Egorov, E., Burnaev, E. (2019). 
 *Frontiers in neuroscience*\\
 [Code and description](https://akuzina.github.io/DWP/) \\
