@@ -10,8 +10,15 @@ author_profile: true
 
 Preprints
 ======
-**Kuzina, A.** and Egorov, E., Burnaev, E. (2019). BooVAE: A scalable framework for continual VAE learning under boosting approach. \\
-[Full text](https://arxiv.org/abs/1908.11853).
+CKConv: Continuous Kernel Convolution For Sequential Data. \\
+David W. Romero, **Anna Kuzina**, Erik J. Bekkers, Jakub M. Tomczak, Mark Hoogendoorn\\
+[PDF](https://arxiv.org/abs/2102.02611)\\
+[Code](https://github.com/dwromero/ckconv)\\
+
+BooVAE: A scalable framework for continual VAE learning under boosting approach. \\
+**Anna Kuzina** and Evgenii Egorov, Evgeny Burnaev\\
+[PDF](https://arxiv.org/abs/1908.11853) \\
+[Code](https://github.com/AKuzina/boovae)\\
 
 
 Published papers
@@ -21,11 +28,11 @@ Bayesian generative models for knowledge transfer in MRI semantic segmentation p
 **Kuzina, A.**, Egorov, E., Burnaev, E. (2019).
 *Frontiers in neuroscience*\\
 [Code and description](https://akuzina.github.io/DWP/) \\
-[Full text](https://www.frontiersin.org/articles/10.3389/fnins.2019.00844/full)
+[PDF](https://www.frontiersin.org/articles/10.3389/fnins.2019.00844/full)
 
 Pominova, M., **Kuzina, A.**, Kondrateva, E., Sushchinskaya, S., Burnaev, E., Yarkin, V., Sharaev, M. (2019). Ensemble of 3D CNN regressors with data fusion for fluid intelligence prediction.
 *In Challenge in Adolescent Brain Cognitive Development Neurocognitive Prediction*\\
-[Full text](https://link.springer.com/chapter/10.1007/978-3-030-31901-4_19)
+[PDF](https://link.springer.com/chapter/10.1007/978-3-030-31901-4_19)
 
 
 Posters and Presentations
