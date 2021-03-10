@@ -4,9 +4,8 @@ title: " "
 permalink: /teaching/
 author_profile: true
 ---
-## Deep Learning, TA
-**Fall 2020**, Vrije Universiteit Amsterdam\\
-
+## [Deep Learning](https://dlvu.github.io/), TA
+**Fall 2020**, Vrije Universiteit Amsterdam
 
 ## Machine Learning, Lecturer
 **MOOC**, Online Degree, [Master of Data Science](https://www.hse.ru/en/ma/mds/)\\
