@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Anna Kuzina"
   avatar           : "ava_1.png"
-  bio              : "PhD Student, Vrije Universiteit"
+  bio              : "PhD Student, Vrije Universiteit Amsterdam"
   location         : "Amsterdam, Netherlands"
   employer         :
   pubmed           :
@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "AKuzina"
   google_plus      :
   keybase          :
   instagram        : #"sysliksss"

@@ -9,15 +9,15 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Presentations"
-    url: /talks/
+  # - title: "Presentations"
+  #   url: /talks/
 
-    
+
 # - title: "Portfolio"
 #   url: /portfolio/
-        
+
 #  - title: "Blog Posts"
 #    url: /year-archive/
-    
+
 #  - title: "Guide"
 #    url: /markdown/
