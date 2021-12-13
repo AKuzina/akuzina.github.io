@@ -12,28 +12,34 @@ Preprints
 ======
 CKConv: Continuous Kernel Convolution For Sequential Data. \\
 David W. Romero, **Anna Kuzina**, Erik J. Bekkers, Jakub M. Tomczak, Mark Hoogendoorn\\
-[PDF](https://arxiv.org/abs/2102.02611)\\
+[Paper](https://arxiv.org/abs/2102.02611)\\
 [Code](https://github.com/dwromero/ckconv)
-
-BooVAE: A scalable framework for continual VAE learning under boosting approach. \\
-**Anna Kuzina** and Evgenii Egorov, Evgeny Burnaev\\
-[PDF](https://arxiv.org/abs/1908.11853) \\
-[Code](https://github.com/AKuzina/boovae)
 
 
 Published papers
 ======
+BooVAE: Boosting Approach for Continual Learning of VAE. \\
+**Anna Kuzina*** and Evgenii Egorov*, Evgeny Burnaev\\
+\* Equal contribution \\
+NeurIPS 2021 \\
+[Paper](https://proceedings.neurips.cc/paper/2021/hash/952285b9b7e7a1be5aa7849f32ffff05-Abstract.html) \\
+[Code](https://github.com/AKuzina/boovae)
+
+Diagnosing Vulnerability of Variational Auto-Encoders to Adversarial Attacks.\\
+**Anna Kuzina**, Max Welling, Jakub M Tomczak\\
+ICLR 2021. [RobustML Workshop](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-024)\\)
+[Paper](https://arxiv.org/abs/2103.06701)
 
 Bayesian generative models for knowledge transfer in MRI semantic segmentation problems. \\
-**Kuzina, A.**, Egorov, E., Burnaev, E. (2019).
+**Kuzina, A.**, Egorov, E., Burnaev, E. (2019) \\
 *Frontiers in neuroscience*\\
-[Code and description](https://akuzina.github.io/DWP/) \\
-[PDF](https://www.frontiersin.org/articles/10.3389/fnins.2019.00844/full)
+[Paper](https://www.frontiersin.org/articles/10.3389/fnins.2019.00844/full) \\
+[Code](https://akuzina.github.io/DWP/) \\
 
 Ensemble of 3D CNN regressors with data fusion for fluid intelligence prediction. \\
-Pominova, M., **Kuzina, A.**, Kondrateva, E., Sushchinskaya, S., Burnaev, E., Yarkin, V., Sharaev, M. (2019)
+Pominova, M., **Kuzina, A.**, Kondrateva, E., Sushchinskaya, S., Burnaev, E., Yarkin, V., Sharaev, M. (2019) \\
 *In Challenge in Adolescent Brain Cognitive Development Neurocognitive Prediction*\\
-[PDF](https://link.springer.com/chapter/10.1007/978-3-030-31901-4_19)
+[Paper](https://link.springer.com/chapter/10.1007/978-3-030-31901-4_19)
 
 
 Posters and Presentations

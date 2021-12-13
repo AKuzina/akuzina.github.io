@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 ## Deep Learning, TA
-**Fall 2020**, Vrije Universiteit Amsterdam
+**Fall 2020, 2021**, Vrije Universiteit Amsterdam
 Masters course on Deep Learning. [Course Page](https://dlvu.github.io/).\\
 I was conduction weekly consultations for students and checking assignments.
 

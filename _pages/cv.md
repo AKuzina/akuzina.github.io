@@ -37,6 +37,10 @@ Education
 
 Work experience
 ======
+* *July 2021 - September 2021*\\ 
+  &nbsp;&nbsp;&nbsp; **Reserach Intern** \\
+  &nbsp;&nbsp;&nbsp;[Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research)
+
 * *July 2019 - August 2020*\\
 &nbsp;&nbsp;&nbsp; **Junior Research Engineer** \\
 &nbsp;&nbsp;&nbsp; Skoltech, Moscow\\
