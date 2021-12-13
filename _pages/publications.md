@@ -12,33 +12,34 @@ Preprints
 ======
 CKConv: Continuous Kernel Convolution For Sequential Data. \\
 David W. Romero, **Anna Kuzina**, Erik J. Bekkers, Jakub M. Tomczak, Mark Hoogendoorn\\
-[Paper](https://arxiv.org/abs/2102.02611)\\
+[Paper](https://arxiv.org/abs/2102.02611),
 [Code](https://github.com/dwromero/ckconv)
 
 
 Published papers
 ======
 BooVAE: Boosting Approach for Continual Learning of VAE. \\
-**Anna Kuzina*** and Evgenii Egorov*, Evgeny Burnaev\\
+**Kuzina A.*** and Egorov E.*, Burnaev E.\\
 \* Equal contribution \\
-NeurIPS 2021 \\
-[Paper](https://proceedings.neurips.cc/paper/2021/hash/952285b9b7e7a1be5aa7849f32ffff05-Abstract.html) \\
+*NeurIPS 2021* \\
+[Paper](https://proceedings.neurips.cc/paper/2021/hash/952285b9b7e7a1be5aa7849f32ffff05-Abstract.html),
 [Code](https://github.com/AKuzina/boovae)
 
 Diagnosing Vulnerability of Variational Auto-Encoders to Adversarial Attacks.\\
-**Anna Kuzina**, Max Welling, Jakub M Tomczak\\
-ICLR 2021. [RobustML Workshop](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-024)\\)
-[Paper](https://arxiv.org/abs/2103.06701)
+**Kuzina A.**, Welling M., Tomczak J.\\
+*ICLR 2021.* [RobustML Workshop](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-024) \\
+[Paper](https://arxiv.org/abs/2103.06701),
+[Code](https://github.com/AKuzina/attack_vae)
 
 Bayesian generative models for knowledge transfer in MRI semantic segmentation problems. \\
-**Kuzina, A.**, Egorov, E., Burnaev, E. (2019) \\
-*Frontiers in neuroscience*\\
-[Paper](https://www.frontiersin.org/articles/10.3389/fnins.2019.00844/full) \\
+**Kuzina A.**, Egorov E., Burnaev E. \\
+*Frontiers in neuroscience, 2019*\\
+[Paper](https://www.frontiersin.org/articles/10.3389/fnins.2019.00844/full), 
 [Code](https://akuzina.github.io/DWP/) \\
 
 Ensemble of 3D CNN regressors with data fusion for fluid intelligence prediction. \\
-Pominova, M., **Kuzina, A.**, Kondrateva, E., Sushchinskaya, S., Burnaev, E., Yarkin, V., Sharaev, M. (2019) \\
-*In Challenge in Adolescent Brain Cognitive Development Neurocognitive Prediction*\\
+Pominova M., **Kuzina A.**, Kondrateva E., Sushchinskaya S., Burnaev E., Yarkin V., Sharaev M. \\
+*In Challenge in Adolescent Brain Cognitive Development Neurocognitive Prediction, 2019*\\
 [Paper](https://link.springer.com/chapter/10.1007/978-3-030-31901-4_19)
 
 
