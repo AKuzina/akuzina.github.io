@@ -23,7 +23,7 @@ David W. Romero, **Anna Kuzina**, Erik J. Bekkers, Jakub M. Tomczak, Mark Hoogen
 
 
 BooVAE: Boosting Approach for Continual Learning of VAE. \\
-**Anna Kuzina*** and Evgenii Egorov*, Evgeny Burnaev\\
+**Anna Kuzina**\* and Evgenii Egorov\*, Evgeny Burnaev\\
 \* Equal contribution \\
 *NeurIPS 2021.* \\
 [Paper](https://proceedings.neurips.cc/paper/2021/hash/952285b9b7e7a1be5aa7849f32ffff05-Abstract.html),
