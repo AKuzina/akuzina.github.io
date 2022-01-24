@@ -5,56 +5,53 @@ permalink: /publications/
 author_profile: true
 ---
 
-<a href="https://scholar.google.com/citations?user=IMoc7ioAAAAJ&hl=en"> Google Scholar</a>.
+Full list of papers on <a href="https://scholar.google.com/citations?user=IMoc7ioAAAAJ&hl=en"> Google Scholar</a>.
 
 
-Preprints
-======
-CKConv: Continuous Kernel Convolution For Sequential Data. \\
-David W. Romero, **Anna Kuzina**, Erik J. Bekkers, Jakub M. Tomczak, Mark Hoogendoorn\\
-[Paper](https://arxiv.org/abs/2102.02611),
-[Code](https://github.com/dwromero/ckconv)
+[comment]: <> (Preprints)
+[comment]: <> (======)
+
 
 
 Published papers
 ======
+CKConv: Continuous Kernel Convolution For Sequential Data. \\
+David W. Romero, **Anna Kuzina**, Erik J. Bekkers, Jakub M. Tomczak, Mark Hoogendoorn\\
+*ICLR 2022.* \\
+[Paper](https://arxiv.org/abs/2102.02611),
+[Code](https://github.com/dwromero/ckconv)
+
+
 BooVAE: Boosting Approach for Continual Learning of VAE. \\
-**Kuzina A.*** and Egorov E.*, Burnaev E.\\
+**Anna Kuzina*** and Evgenii Egorov*, Evgeny Burnaev\\
 \* Equal contribution \\
-*NeurIPS 2021* \\
+*NeurIPS 2021.* \\
 [Paper](https://proceedings.neurips.cc/paper/2021/hash/952285b9b7e7a1be5aa7849f32ffff05-Abstract.html),
 [Code](https://github.com/AKuzina/boovae)
 
 Diagnosing Vulnerability of Variational Auto-Encoders to Adversarial Attacks.\\
-**Kuzina A.**, Welling M., Tomczak J.\\
+**Anna Kuzina**, Max Welling, Jakub M. Tomczak\\
 *ICLR 2021.* [RobustML Workshop](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-024) \\
 [Paper](https://arxiv.org/abs/2103.06701),
 [Code](https://github.com/AKuzina/attack_vae)
 
 Bayesian generative models for knowledge transfer in MRI semantic segmentation problems. \\
-**Kuzina A.**, Egorov E., Burnaev E. \\
+**Anna Kuzina**, Evgenii Egorov, Evgeny Burnaev\\
 *Frontiers in neuroscience, 2019*\\
 [Paper](https://www.frontiersin.org/articles/10.3389/fnins.2019.00844/full), 
-[Code](https://akuzina.github.io/DWP/) \\
-
-Ensemble of 3D CNN regressors with data fusion for fluid intelligence prediction. \\
-Pominova M., **Kuzina A.**, Kondrateva E., Sushchinskaya S., Burnaev E., Yarkin V., Sharaev M. \\
-*In Challenge in Adolescent Brain Cognitive Development Neurocognitive Prediction, 2019*\\
-[Paper](https://link.springer.com/chapter/10.1007/978-3-030-31901-4_19)
-
+[Code](https://akuzina.github.io/DWP/)
 
 Posters and Presentations
 ======
 Bayesian generative models for knowledge transfer in MRI semantic segmentation problems.\\
 *Poster on [MIDL](https://2020.midl.io/papers/kuzina20.html) 2020, Online.*\\
-[Slides](https://akuzina.github.io/files/midl_dwp.pdf)\\
+[Slides](https://akuzina.github.io/files/midl_dwp.pdf), 
 [Video](https://www.youtube.com/watch?v=d1GkoVyGKO4)
 
 
 BooVAE: A scalable framework for continual VAE learning under boosting approach.\\
 *Spotlight on [AABI](http://approximateinference.org/) 2019, Vancouver, Canada.* \\
 [Poster](https://akuzina.github.io/files/Boo_AABI_Poster.pdf)
-
 
 
 MRI-based stroke outcome prediction and treatment planning.\\
