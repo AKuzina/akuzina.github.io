@@ -42,7 +42,6 @@ Work experience
   &nbsp;&nbsp;&nbsp; **Research Intern** \\
   &nbsp;&nbsp;&nbsp; [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research), Amsterdam
   
-  
 * *July 2019 - August 2020*\\
 &nbsp;&nbsp;&nbsp; **Junior Research Engineer** \\
 &nbsp;&nbsp;&nbsp; Skoltech, Moscow\\
