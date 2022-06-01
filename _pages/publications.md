@@ -15,6 +15,13 @@ Full list of papers on <a href="https://scholar.google.com/citations?user=IMoc7i
 
 Published papers
 ======
+Equivariant Priors for Compressed Sensing with Unknown Orientation. \\
+**Anna Kuzina**, Kumar Pratik, Fabio Valerio Massoli, Arash Begboodi\\
+*ICML 2022.* \\
+[Paper(TBA)](),
+
+
+
 CKConv: Continuous Kernel Convolution For Sequential Data. \\
 David W. Romero, **Anna Kuzina**, Erik J. Bekkers, Jakub M. Tomczak, Mark Hoogendoorn\\
 *ICLR 2022.* \\
