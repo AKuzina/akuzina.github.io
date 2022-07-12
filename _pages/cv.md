@@ -40,7 +40,8 @@ Work experience
 
 * *July 2021 - October 2021*\\
   &nbsp;&nbsp;&nbsp; **Research Intern** \\
-  &nbsp;&nbsp;&nbsp; [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research), Amsterdam
+  &nbsp;&nbsp;&nbsp; [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research), Amsterdam\\
+  Worked on compressed sensing with unknown orientation. See our [ICML paper](https://arxiv.org/abs/2206.14069). 
   
 * *July 2019 - August 2020*\\
 &nbsp;&nbsp;&nbsp; **Junior Research Engineer** \\
