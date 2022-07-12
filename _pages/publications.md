@@ -18,8 +18,7 @@ Published papers
 Equivariant Priors for Compressed Sensing with Unknown Orientation. \\
 **Anna Kuzina**, Kumar Pratik, Fabio Valerio Massoli, Arash Begboodi\\
 *ICML 2022.* \\
-[Paper(TBA)](),
-
+[Paper](https://arxiv.org/abs/2206.14069),
 
 
 CKConv: Continuous Kernel Convolution For Sequential Data. \\
@@ -36,11 +35,13 @@ BooVAE: Boosting Approach for Continual Learning of VAE. \\
 [Paper](https://proceedings.neurips.cc/paper/2021/hash/952285b9b7e7a1be5aa7849f32ffff05-Abstract.html),
 [Code](https://github.com/AKuzina/boovae)
 
+
 Diagnosing Vulnerability of Variational Auto-Encoders to Adversarial Attacks.\\
 **Anna Kuzina**, Max Welling, Jakub M. Tomczak\\
 *ICLR 2021.* [RobustML Workshop](https://sites.google.com/connect.hku.hk/robustml-2021/accepted-papers/paper-024) \\
 [Paper](https://arxiv.org/abs/2103.06701),
 [Code](https://github.com/AKuzina/attack_vae)
+
 
 Bayesian generative models for knowledge transfer in MRI semantic segmentation problems. \\
 **Anna Kuzina**, Evgenii Egorov, Evgeny Burnaev\\
@@ -50,6 +51,11 @@ Bayesian generative models for knowledge transfer in MRI semantic segmentation p
 
 Posters and Presentations
 ======
+Alleviating Adversarial Attacks on Variational Autoencoders with MCMC
+*Poster on [ProbAI Summer School](https://probabilistic.ai/) 2022, Helsinki.*\\
+[Poster](https://akuzina.github.io/files/ProbAI_poster.pdf)
+
+
 Bayesian generative models for knowledge transfer in MRI semantic segmentation problems.\\
 *Poster on [MIDL](https://2020.midl.io/papers/kuzina20.html) 2020, Online.*\\
 [Slides](https://akuzina.github.io/files/midl_dwp.pdf), 
