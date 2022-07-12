@@ -51,7 +51,7 @@ Bayesian generative models for knowledge transfer in MRI semantic segmentation p
 
 Posters and Presentations
 ======
-Alleviating Adversarial Attacks on Variational Autoencoders with MCMC
+Alleviating Adversarial Attacks on Variational Autoencoders with MCMC. \\
 *Poster on [ProbAI Summer School](https://probabilistic.ai/) 2022, Helsinki.*\\
 [Poster](https://akuzina.github.io/files/ProbAI_poster.pdf)
 
