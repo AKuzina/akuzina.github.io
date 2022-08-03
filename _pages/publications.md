@@ -16,26 +16,10 @@ Full list of papers on <a href="https://scholar.google.com/citations?user=IMoc7i
 Published papers
 ======
 
-
-<details>
-    <summary>
-        Equivariant Priors for Compressed Sensing with Unknown Orientation. \\
-        **Anna Kuzina**, Kumar Pratik, Fabio Valerio Massoli, Arash Behboodi\\
+Equivariant Priors for Compressed Sensing with Unknown Orientation. \\
+        **Anna Kuzina**, Kumar Pratik\*, Fabio Valerio Massoli\*, Arash Behboodi\\
+        \* Equal contribution \\
         *ICML 2022.* \\ [Paper](https://proceedings.mlr.press/v162/kuzina22a.html)
-    </summary>
-    `@inproceedings{kuzina2022equivariant,
-     title={Equivariant Priors for compressed sensing with unknown orientation},
-     author={Kuzina, Anna and Pratik, Kumar and Massoli, Fabio Valerio and Behboodi, Arash},
-     booktitle = 	 {Proceedings of the 39th International Conference on Machine Learning},
-     pages = 	 {11753--11771},
-     year = 	 {2022},
-     volume = 	 {162},
-     series = 	 {Proceedings of Machine Learning Research},
-     month = 	 {17--23 Jul},
-     publisher =    {PMLR},
-     url = 	 {https://proceedings.mlr.press/v162/kuzina22a.html}
-}`
-</details>
 
 
 CKConv: Continuous Kernel Convolution For Sequential Data. \\
