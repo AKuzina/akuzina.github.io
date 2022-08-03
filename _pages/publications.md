@@ -16,7 +16,7 @@ Full list of papers on <a href="https://scholar.google.com/citations?user=IMoc7i
 Published papers
 ======
 Equivariant Priors for Compressed Sensing with Unknown Orientation. \\
-**Anna Kuzina**, Kumar Pratik, Fabio Valerio Massoli, Arash Begboodi\\
+**Anna Kuzina**, Kumar Pratik, Fabio Valerio Massoli, Arash Behboodi\\
 *ICML 2022.* \\
 [Paper](https://arxiv.org/abs/2206.14069),
 
