@@ -16,4 +16,15 @@ I am also excited about applications of deep generative models to healthcare and
 
 My PhD is funded by the [Hybrid Intelligence](https://www.hybrid-intelligence-centre.nl/) center.
 
-In my  free time I dance, play the piano and do running (my half-marathon PB is 1:50:54 :)
+In my free time I enjoy dancing (ballet and jazz), playing the piano and running.
+[//]: # (&#40;my half-marathon PB is 1:50:54 :&#41;)
+
+
+## News
+* **September 2022** Two papers accepted to NeurIPS!
+* **June 2022** I've attended ProbAI summer school. 
+* **May 2022** Paper accepted to ICML!
+* **October 2021** I've finished my first half-marathon in 1:50:54
+* **September 2021** Papers accepted to NeurIPS!
+* **July 2021** I've started my internship in Qualcomm, Wireless AI team
+* **September 2020** I've started my PhD
