@@ -29,6 +29,7 @@ Education
 &nbsp;&nbsp;&nbsp; BSc, **Mathematical Methods in Economic Analysis**\\
 &nbsp;&nbsp;&nbsp; [Higher School of Economics](https://www.hse.ru/en/ba/economics)\\
 &nbsp;&nbsp;&nbsp; Thesis: Comparing Forecasting Power of Bayesian VAR with 1-d Time Series Models. \\
+&nbsp;&nbsp;&nbsp; Supervised by: Boris Demeshev \\
 &nbsp;&nbsp;&nbsp; GPA: 8.88/10
 
 * *2016* \\

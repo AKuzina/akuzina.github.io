@@ -15,14 +15,14 @@ Full list of papers on <a href="https://scholar.google.com/citations?user=IMoc7i
 
 Published papers
 ======
-Defending Variational Autoencoders from Adversarial Attacks with MCMC.\\
+Alleviating Adversarial Attacks on Variational Autoencoders with MCMC.\\
 **Anna Kuzina**, Max Welling, Jakub M. Tomczak\\
 *NeurIPS 2022.* \\
 [Paper](https://arxiv.org/abs/2203.09940)
 
 
 On Analyzing Generative and Denoising Capabilities of Diffusion-based Deep Generative Models.\\
-Kamil Deja\*, **Anna Kuzina**\*, Tomasz Trzcinski, Jakub M. Tomczak\\
+ **Anna Kuzina**\* and Kamil Deja\*, Tomasz Trzcinski, Jakub M. Tomczak\\
 \* Equal contribution \\
 *NeurIPS 2022.* \\
 [Paper](https://arxiv.org/abs/2206.00070),
@@ -30,8 +30,7 @@ Kamil Deja\*, **Anna Kuzina**\*, Tomasz Trzcinski, Jakub M. Tomczak\\
 
 
 Equivariant Priors for Compressed Sensing with Unknown Orientation. \\
-**Anna Kuzina**, Kumar Pratik\*, Fabio Valerio Massoli\*, Arash Behboodi\\
-\* Equal contribution \\
+**Anna Kuzina**, Kumar Pratik, Fabio Valerio Massoli, Arash Behboodi\\
 *ICML 2022.* \\ 
 [Paper](https://proceedings.mlr.press/v162/kuzina22a.html)
 
