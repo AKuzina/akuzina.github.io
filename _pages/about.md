@@ -17,7 +17,6 @@ I am also excited about applications of deep generative models to healthcare and
 My PhD is funded by the [Hybrid Intelligence](https://www.hybrid-intelligence-centre.nl/) center.
 
 In my free time I enjoy dancing (ballet and jazz), playing the piano and running.
-[//]: # (&#40;my half-marathon PB is 1:50:54 :&#41;)
 
 
 ## News
