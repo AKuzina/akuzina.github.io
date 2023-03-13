@@ -10,11 +10,12 @@ Full list of papers on <a href="https://scholar.google.com/citations?user=IMoc7i
 
 [comment]: <> (Preprints)
 [comment]: <> (======)
+
 Preprints
 ======
 Analyzing the Posterior Collapse in Hierarchical Variational Autoencoders.\\
 **Anna Kuzina**, Jakub M. Tomczak\\
-[ArXiV](https://arxiv.org/abs/2302.09976),
+[Paper](https://arxiv.org/abs/2302.09976),
 [Code](https://github.com/AKuzina/dct_vae).
 
 
