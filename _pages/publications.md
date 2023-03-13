@@ -10,7 +10,12 @@ Full list of papers on <a href="https://scholar.google.com/citations?user=IMoc7i
 
 [comment]: <> (Preprints)
 [comment]: <> (======)
-
+Preprints
+======
+Analyzing the Posterior Collapse in Hierarchical Variational Autoencoders.\\
+**Anna Kuzina**, Jakub M. Tomczak\\
+[ArXiV](https://arxiv.org/abs/2302.09976),
+[Code](https://github.com/AKuzina/dct_vae).
 
 
 Published papers
@@ -18,7 +23,8 @@ Published papers
 Alleviating Adversarial Attacks on Variational Autoencoders with MCMC.\\
 **Anna Kuzina**, Max Welling, Jakub M. Tomczak\\
 *NeurIPS 2022.* \\
-[Paper](https://arxiv.org/abs/2203.09940).
+[Paper](https://arxiv.org/abs/2203.09940),
+[Code](https://github.com/AKuzina/defend_vae_mcmc).
 
 
 On Analyzing Generative and Denoising Capabilities of Diffusion-based Deep Generative Models.\\

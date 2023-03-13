@@ -20,6 +20,7 @@ In my free time I enjoy dancing (ballet and jazz), playing the piano and running
 
 
 ## News
+* **November 2022** I gave a talk at [Danish Data Science](https://ddsa.dk/danishdatascience2022/) Conference (parallel session on generative models). ([Slides](https://akuzina.github.io/files/DDSA_2022.pdf))
 * **September 2022** Two papers ([1](https://arxiv.org/abs/2203.09940), [2](https://arxiv.org/abs/2206.00070)) accepted to NeurIPS 2022!
 * **June 2022** I've attended ProbAI summer school and participated in the [poster](https://akuzina.github.io/files/ProbAI_poster.pdf) session. 
 * **May 2022** A [paper](https://arxiv.org/abs/2206.14069) accepted to ICML 2022!
