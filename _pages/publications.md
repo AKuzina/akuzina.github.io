@@ -38,7 +38,7 @@ On Analyzing Generative and Denoising Capabilities of Diffusion-based Deep Gener
 
 Equivariant Priors for Compressed Sensing with Unknown Orientation. \\
 **Anna Kuzina**, Kumar Pratik, Fabio Valerio Massoli, Arash Behboodi\\
-*ICML 2022.*\\ 
+*ICML 2022.* \\ 
 [Paper](https://proceedings.mlr.press/v162/kuzina22a.html).
 
 

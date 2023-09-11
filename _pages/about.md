@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi! I am a PhD Student in the [Computational Intelligence](https://cs.vu.nl/ci/) group in Vrije Universiteit Amsterdam, supervised by [Jakub Tomczak](https://jmtomczak.github.io/), [Max Welling (UvA)](https://staff.fnwi.uva.nl/m.welling/) and [Guszti Eiben](https://www.cs.vu.nl/~gusz/).
-Previously I was a research intern in  [Qualcomm AI Reserch](https://www.qualcomm.com/research/artificial-intelligence/ai-research) .
+Previously I did intenships in NVIDIA in Moscow, [Qualcomm AI Reserch](https://www.qualcomm.com/research/artificial-intelligence/ai-research) in Amsterdam and [Microsoft AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)in Cambridge.
 
 The topic of my PhD is Continual learning and Deep Generative Modeling for Adaptive Systems.
 I am also excited about applications of deep generative models to healthcare and science.
@@ -20,6 +20,7 @@ In my free time I enjoy dancing (ballet and jazz), playing the piano and running
 
 
 ## News
+* **May 2023** I've started internship in Miscrosoft AI4Science team. 
 * **November 2022** I gave a talk at [Danish Data Science](https://ddsa.dk/danishdatascience2022/) Conference (parallel session on generative models). ([Slides](https://akuzina.github.io/files/DDSA_2022.pdf))
 * **September 2022** Two papers ([1](https://arxiv.org/abs/2203.09940), [2](https://arxiv.org/abs/2206.00070)) accepted to NeurIPS 2022!
 * **June 2022** I've attended ProbAI summer school and participated in the [poster](https://akuzina.github.io/files/ProbAI_poster.pdf) session. 

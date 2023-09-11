@@ -38,7 +38,12 @@ Education
 
 Work experience
 ======
-
+* *May 2023 - August 2023*\\
+  &nbsp;&nbsp;&nbsp; **Research Intern** \\
+  &nbsp;&nbsp;&nbsp; [Microsoft, AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Cambridge\\
+  Training strictly local equivariant machine learning force field models with extended cutoff radius.
+  <!-- Strictly local equivariant MLFF has gathered attentino for its remarcable speed and scalability. This advantage stems from their iheret parallelizaility during deeplyment. Nonetheless, specific tasks demand an expanded local cutoff radius to account for the long-range interactions. Accomplishing this expansion has proven to be challeging, primarily due to two significant limitations: increased memory consumption and poor training dynamics. During this internship we worked towards identyfying and addressing these issues. -->
+  
 * *July 2021 - October 2021*\\
   &nbsp;&nbsp;&nbsp; **Research Intern** \\
   &nbsp;&nbsp;&nbsp; [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research), Amsterdam\\
