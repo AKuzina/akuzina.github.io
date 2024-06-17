@@ -13,6 +13,12 @@ Full list of papers on <a href="https://scholar.google.com/citations?user=IMoc7i
 
 Preprints
 ======
+Variational Stochastic Gradient Descent for Deep Neural Networks.\\
+Haotian Chen\*, **Anna Kuzina**\*, Babak Esmaeili, Jakub M. Tomczak\\
+\* Equal contribution \\
+[Paper](https://arxiv.org/abs/2404.06549),
+[Code](https://github.com/Akuzina/vsgd).
+
 Analyzing the Posterior Collapse in Hierarchical Variational Autoencoders.\\
 **Anna Kuzina**, Jakub M. Tomczak\\
 [Paper](https://arxiv.org/abs/2302.09976),
