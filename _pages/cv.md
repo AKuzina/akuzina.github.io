@@ -38,6 +38,9 @@ Education
 
 Work experience
 ======
+* *February 2024 - July 2024*\\
+  &nbsp;&nbsp;&nbsp; **Assosiate Researcher** \\
+  &nbsp;&nbsp;&nbsp; [Microsoft, AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Amsterdam\\
 * *May 2023 - August 2023*\\
   &nbsp;&nbsp;&nbsp; **Research Intern** \\
   &nbsp;&nbsp;&nbsp; [Microsoft, AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Cambridge\\
