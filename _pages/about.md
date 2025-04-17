@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD student in the [Computational Intelligence](https://cs.vu.nl/ci/) group in Vrije Universiteit Amsterdam, under the supervision of [Jakub Tomczak](https://jmtomczak.github.io/), [Max Welling](https://staff.fnwi.uva.nl/m.welling/) and [Guszti Eiben](https://www.cs.vu.nl/~gusz/). My research focuses on Deep Generative Modeling and Continual Learning. I am interested in applying deep generative models to healthcare and scientific domains.
+Hi! I am a PhD student in the [Computational Intelligence](https://cs.vu.nl/ci/) group at Vrije Universiteit Amsterdam, under the supervision of [Jakub Tomczak](https://jmtomczak.github.io/), [Max Welling](https://staff.fnwi.uva.nl/m.welling/) and [Guszti Eiben](https://www.cs.vu.nl/~gusz/). My research focuses on Deep Generative Modeling and Continual Learning. I am interested in applying deep generative models to healthcare and scientific domains.
 
-Previously, I did intenships in NVIDIA (Moscow), [Qualcomm AI Reserch](https://www.qualcomm.com/research/artificial-intelligence/ai-research) (Amsterdam), and [Microsoft AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/) (Cambridge).
+Previously, I did internships at NVIDIA (Moscow), [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research) (Amsterdam), and [Microsoft AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/) (Cambridge).
 
 
 My PhD is funded by the [Hybrid Intelligence](https://www.hybrid-intelligence-centre.nl/) center.
