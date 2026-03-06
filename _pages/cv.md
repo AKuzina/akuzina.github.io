@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 
-* *2020 - Present* \\
-&nbsp;&nbsp;&nbsp; PhD, **Continual Learning for Generative Models**\\
+* *2020 - 2025* \\
+&nbsp;&nbsp;&nbsp; PhD, **Latent Variable Generative Models**\\
 &nbsp;&nbsp;&nbsp; [Computational Intelligence](https://cs.vu.nl/ci/) group, Vrije Universiteit Amsterdam (VU)\\
-&nbsp;&nbsp;&nbsp; Supervised by: Jakub Tomczak (VU), Max Welling (UvA), Guszti Eiben (VU)
+&nbsp;&nbsp;&nbsp; Supervised by: Jakub Tomczak (VU), Max Welling (UvA)
 
 * *2017 - 2019* \\
 &nbsp;&nbsp;&nbsp; MSc, **Statistical Learning Theory** (double degree)\\
@@ -38,26 +38,26 @@ Education
 
 Work experience
 ======
-* *February 2024 - July 2024*\\
+* *2024*\\
   &nbsp;&nbsp;&nbsp; **Assosiate Researcher** \\
   &nbsp;&nbsp;&nbsp; [Microsoft, AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Amsterdam\\
-* *May 2023 - August 2023*\\
+* *2023*\\
   &nbsp;&nbsp;&nbsp; **Research Intern** \\
   &nbsp;&nbsp;&nbsp; [Microsoft, AI4Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/), Cambridge\\
   Training strictly local equivariant machine learning force field models with extended cutoff radius.
   <!-- Strictly local equivariant MLFF has gathered attentino for its remarcable speed and scalability. This advantage stems from their iheret parallelizaility during deeplyment. Nonetheless, specific tasks demand an expanded local cutoff radius to account for the long-range interactions. Accomplishing this expansion has proven to be challeging, primarily due to two significant limitations: increased memory consumption and poor training dynamics. During this internship we worked towards identyfying and addressing these issues. -->
   
-* *July 2021 - October 2021*\\
+* *2021*\\
   &nbsp;&nbsp;&nbsp; **Research Intern** \\
   &nbsp;&nbsp;&nbsp; [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence/ai-research), Amsterdam\\
   Worked on compressed sensing with unknown orientation. See our [ICML paper](https://arxiv.org/abs/2206.14069). 
   
-* *July 2019 - August 2020*\\
+* *2019 - 2020*\\
 &nbsp;&nbsp;&nbsp; **Junior Research Engineer** \\
 &nbsp;&nbsp;&nbsp; Skoltech, Moscow\\
 &nbsp;&nbsp;&nbsp; Supervised by Evgeny Burnaev
 
-* *Summer 2018* \\
+* *2018* \\
 &nbsp;&nbsp;&nbsp; **Deep Learning Intern**\\
 &nbsp;&nbsp;&nbsp; NVIDIA, Moscow\\
 &nbsp;&nbsp;&nbsp; Developed pipeline for online detection of creatures in the video games, based on deep neural network
@@ -67,6 +67,4 @@ Work experience
 &nbsp;&nbsp;&nbsp; Tinkoff bank, Moscow\\
 &nbsp;&nbsp;&nbsp; Impact evaluation for online ads, anomaly detection in user behavior, A\B-testing for landing pages optimization 
 
-[Teaching](https://akuzina.github.io/teaching/)
-======
   
