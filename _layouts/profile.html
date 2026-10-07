@@ -1,0 +1,49 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body class="profile-page">
+    {% include browser-upgrade.html %}
+
+    <a class="profile-skip-link" href="#main-content">Skip to content</a>
+
+    <div class="profile-shell">
+      <aside class="profile-rail" aria-label="Profile and links">
+        <a class="profile-identity" href="{{ base_path }}/">
+          <img src="{{ '/images/ava_1.png' | prepend: base_path }}" alt="Anna Kuzina">
+          <span class="profile-name">Anna Kuzina</span>
+        </a>
+
+        <p class="profile-role">Senior Researcher<br>Qualcomm AI Research</p>
+        <p class="profile-location">Amsterdam, Netherlands</p>
+
+        <nav class="profile-links" aria-label="External links">
+          <a href="{{ site.author.googlescholar }}">Google Scholar <span aria-hidden="true">↗</span></a>
+          <a href="https://github.com/{{ site.author.github }}">GitHub <span aria-hidden="true">↗</span></a>
+          <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn <span aria-hidden="true">↗</span></a>
+          <a href="{{ '/files/cv_anna_kuzina.pdf' | prepend: base_path }}">Download CV <span aria-hidden="true">↓</span></a>
+        </nav>
+      </aside>
+
+      <main id="main-content" class="profile-content">
+        {{ content }}
+
+        <footer class="profile-footer">
+          <span>© {{ site.time | date: '%Y' }} Anna Kuzina</span>
+          <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn ↗</a>
+        </footer>
+      </main>
+    </div>
+
+    {% include scripts.html %}
+  </body>
+</html>

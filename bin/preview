@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+# Apple Ruby 2.6 otherwise treats some theme files as US-ASCII.
+export RUBYOPT="${RUBYOPT:+${RUBYOPT} }-EUTF-8"
+
+exec bundle exec jekyll serve \
+  --config _config.yml,_config.dev.yml \
+  --livereload \
+  --host 127.0.0.1

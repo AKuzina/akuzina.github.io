@@ -16,13 +16,24 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 
 See more info at https://academicpages.github.io/
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+## Preview locally before publishing
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+Install the Ruby dependencies once:
+
+```bash
+bin/setup
+```
+
+Then start the local site from the repository root:
+
+```bash
+bin/preview
+```
+
+Open [http://127.0.0.1:4000](http://127.0.0.1:4000). Jekyll watches the
+source files and LiveReload refreshes the page when an edit is saved. Stop the
+preview with `Ctrl+C`. Nothing is published until the changes are committed and
+pushed to GitHub.
 
 # Changelog -- bugfixes and enhancements
 

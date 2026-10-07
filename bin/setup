@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+project_root="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
+
+export RUBYOPT="${RUBYOPT:+${RUBYOPT} }-EUTF-8 -r${project_root}/bin/apple_ruby_headers.rb"
+
+cd "${project_root}"
+bundle check || bundle install

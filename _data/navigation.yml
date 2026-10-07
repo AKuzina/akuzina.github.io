@@ -1,23 +1,2 @@
-# main links links
-main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "CV"
-    url: /cv/
-
-  - title: "Teaching"
-    url: /teaching/
-
-  # - title: "Presentations"
-  #   url: /talks/
-
-
-# - title: "Portfolio"
-#   url: /portfolio/
-
-#  - title: "Blog Posts"
-#    url: /year-archive/
-
-#  - title: "Guide"
-#    url: /markdown/
+# The public site is intentionally a single-page profile.
+main: []
